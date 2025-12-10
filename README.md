@@ -1,16 +1,99 @@
-## Hi there 👋
+<!-- ===================== Header (Typing + Visitor Counter) ===================== -->
+<p align="center">
+  <!-- Animated typing text (change the `lines` param to customize) -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=750&height=70&lines=Hi,+I'm+Tarun+Soi!;Full-Stack+Developer+%E2%9A%80;Building+things+with+TypeScript+%26+Postgres" alt="Typing SVG">
 
-<!--
-**TarunSoi53/TarunSoi53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Small gap -->
+  <br/>
 
-Here are some ideas to get you started:
+  <!-- Visitor counter (komarev gh-page-views counter). Replace username if different -->
+  <img src="https://komarev.com/ghpvc/?username=tarunsoi&color=brightgreen" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌟 Hey there! I'm **Tarun Soi** — Full-Stack Developer 🚀  
+*Crafting clean code, scalable systems & cool user experiences.*
+
+---
+
+## 🔥 About Me  
+I’m a passionate full-stack developer who loves transforming ideas into real, working products.  
+From building backend APIs to crafting frontend interfaces, I enjoy the entire process of creating digital things that **actually solve problems**.
+
+✨ My dev personality:  
+- Half **creative thinker** 🎨  
+- Half **logical builder** 🛠️  
+- Fully **curious learner** 🤓  
+
+---
+
+## ⚡ Tech Stack & Tools  
+### 🎯 **Frontend**
+- React.js • Next.js • TailwindCSS  
+
+### 🧩 **Backend**
+- Node.js • Express.js • NestJS (learning)  
+
+### 🗃️ **Database & ORM**
+- PostgreSQL • Prisma ORM  
+
+### 🧰 **Other Tools**
+- Docker • Postman • Git/GitHub  
+
+### 💬 **Languages**
+- JavaScript • TypeScript  
+
+---
+
+## 🌱 What I'm Currently Learning  
+- Next.js (Full-stack routing + server actions)  
+- NestJS (Modular backend + Prisma + Postgres)  
+- Writing cleaner, scalable TypeScript  
+- Improving database design & system architecture  
+
+---
+
+## 🚀 Featured Projects  
+### 🍽️ **Food Delivery App Backend**  
+Robust backend with modular services, authentication, cart & order flows.  
+> _Repo:_ `link-to-repo` (replace with your repo URL)
+
+### 🎵 **Multi-Streaming Platform**  
+Watch/listen together in sync — movies, music, or livestreams.  
+> _Repo:_ `link-to-repo` (replace with your repo URL)
+
+### 🔐 **NestJS Auth + CRUD API**  
+A complete learning project featuring role-based auth & Prisma integration.  
+> _Repo:_ `link-to-repo` (replace with your repo URL)
+
+---
+
+## 📊 GitHub Stats  
+
+![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunSoi53&show_icons=true&hide_border=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSoi53&layout=compact&hide_border=true&theme=tokyonight)
+
+---
+
+## 🤝 Connect with Me  
+- 💼 **LinkedIn:** `https://www.linkedin.com/in/your-link`  
+- 🌐 **Portfolio:** `https://your-portfolio.com`  
+
+---
+
+## 🎧 Fun Stuff  
+- Exploring new technologies is my favorite hobby  
+- Listening to podcasts keeps my brain fueled  
+- Love building side projects that teach me new skills  
+- Always up for learning something crazy cool 🚀
+
+---
+
+### ✨ Optional extras I can add
+- Animated GIF banner under the header  
+- Visitor map / heatmap of contributions  
+- Project cards with live demo links  
+- Custom badges (skills, roles, certifications)
+
+If you want any of these, say which one and I’ll drop it in — ready to paste.
+
