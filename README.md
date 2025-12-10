@@ -76,8 +76,8 @@ A complete learning project featuring role-based auth & Prisma integration.
 ---
 
 ## 🤝 Connect with Me  
-- 💼 **LinkedIn:** `https://www.linkedin.com/in/your-link`  
-- 🌐 **Portfolio:** `https://your-portfolio.com`  
+- 💼 **LinkedIn:** `https://www.linkedin.com/in/tarunsoi`  
+
 
 ---
 
