@@ -7,7 +7,7 @@
   <br/>
 
   <!-- Visitor counter (komarev gh-page-views counter). Replace username if different -->
-  <img src="https://komarev.com/ghpvc/?username=tarunsoi&color=brightgreen" alt="Profile views" />
+  
 </p>
 
 # 🌟 Hey there! I'm **Tarun Soi** — Full-Stack Developer 🚀  
@@ -88,12 +88,7 @@ A complete learning project featuring role-based auth & Prisma integration.
 - Always up for learning something crazy cool 🚀
 
 ---
+<img src="https://komarev.com/ghpvc/?username=tarunsoi&color=brightgreen" alt="Profile views" />
 
-### ✨ Optional extras I can add
-- Animated GIF banner under the header  
-- Visitor map / heatmap of contributions  
-- Project cards with live demo links  
-- Custom badges (skills, roles, certifications)
 
-If you want any of these, say which one and I’ll drop it in — ready to paste.
 
