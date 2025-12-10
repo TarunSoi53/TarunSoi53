@@ -67,13 +67,6 @@ A complete learning project featuring role-based auth & Prisma integration.
 
 ---
 
-## 📊 GitHub Stats  
-
-![Tarun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunSoi53&show_icons=true&hide_border=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunSoi53&layout=compact&hide_border=true&theme=tokyonight)
-
----
 
 ## 🤝 Connect with Me  
 - 💼 **LinkedIn:** `https://www.linkedin.com/in/tarunsoi`  
