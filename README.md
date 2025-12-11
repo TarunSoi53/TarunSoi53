@@ -57,9 +57,7 @@ From building backend APIs to crafting frontend interfaces, I enjoy the entire p
 Robust backend with modular services, authentication, cart & order flows.  
 > _Repo:_ `link-to-repo` (replace with your repo URL)
 
-### 🎵 **Multi-Streaming Platform**  
-Watch/listen together in sync — movies, music, or livestreams.  
-> _Repo:_ `link-to-repo` (replace with your repo URL)
+
 
 ### 🔐 **NestJS Auth + CRUD API**  
 A complete learning project featuring role-based auth & Prisma integration.  
