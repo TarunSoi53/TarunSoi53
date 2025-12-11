@@ -1,7 +1,7 @@
 <!-- ===================== Header (Typing + Visitor Counter) ===================== -->
 <p align="center">
   <!-- Animated typing text (change the `lines` param to customize) -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=750&height=70&lines=Hi,+I'm+Tarun+Soi!;Full-Stack+Developer+%E2%9A%80;Building+things+with+creative+%26+professional" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00BFFF&center=true&vCenter=true&width=750&height=70&lines=Hi,+I'm+Tarun+Soi!;Full-Stack+Developer+%E2%9A%80;Building+things+with+creative+%26+professional" alt="Typing SVG">
 
   <!-- Small gap -->
   <br/>
