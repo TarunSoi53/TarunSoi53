@@ -55,13 +55,13 @@ From building backend APIs to crafting frontend interfaces, I enjoy the entire p
 ## 🚀 Featured Projects  
 ### 🍽️ **Food Delivery App Backend**  
 Robust backend with modular services, authentication, cart & order flows.  
-> _Repo:_ `link-to-repo` (replace with your repo URL)
+
 
 
 
 ### 🔐 **NestJS Auth + CRUD API**  
 A complete learning project featuring role-based auth & Prisma integration.  
-> _Repo:_ `link-to-repo` (replace with your repo URL)
+
 
 ---
 
